@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5h0019/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5h0019/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中天紫微星真寶懺
+  date: '2015-08-29 03:02:46.416901'
+  source:
+    repository: kanripo
+    path: KR5h0019
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5h0019_000-CK-KZ.yaml, hash: 'sha256:814a6e768ea4c809abd15c2a84861e0f67ad741ed55fce567153c37971411f78'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5h0019_000-CK-KZ.markers.yaml, hash: 'sha256:931b111ae0bdf3ab9ee1b4878ce061cecd472e47491c681f669621c225d4f3ca'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5h0019_CK-KZ_01p087a
+    span:
+    - body
+    - 0
+    - 1063
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:beaecfe9a728d529b5fc2af13dda6ce2cc125ba3672728a49a0aa69ae04968b4
