@@ -41,6 +41,7 @@ markers:
   - {type: variant, offset: 38, length: 1, content: 鍳, YP-C: 鑒}
   - {type: substitution, offset: 38, original: 鍳, replacement: 鑒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17585}}
   - {type: punctuation, offset: 40, content: (, id: KR5h0019_krp_000-bkkpn1}
+  - {type: voice, offset: 40, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 41, content: ), id: KR5h0019_krp_000-bkkpn2}
   - {type: variant, offset: 43, length: 1, content: 真, CK-KZ: 眞}
   - {type: variant, offset: 43, length: 1, content: 真, CK-KZ-jye: 眞}
@@ -151,6 +152,7 @@ markers:
       ', id: KR5h0019_krp_000-bkkkrnewl15}
   - {type: line-break, offset: 204, content: '', id: KR5h0019_HFL_000-001b04}
   - {type: punctuation, offset: 204, content: (, id: KR5h0019_krp_000-bkkpn3}
+  - {type: voice, offset: 204, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 205, content: ), id: KR5h0019_krp_000-bkkpn4}
   - {type: variant, offset: 214, length: 1, content: 黙, CK-KZ: 默}
   - {type: variant, offset: 214, length: 1, content: 黙, CK-KZ-jye: 默}
@@ -302,6 +304,7 @@ markers:
   - {type: variant, offset: 383, length: 1, content: 扵, YP-C: 於}
   - {type: substitution, offset: 383, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20172}}
   - {type: punctuation, offset: 386, content: (, id: KR5h0019_krp_000-bkkpn5}
+  - {type: voice, offset: 386, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 388, content: ), id: KR5h0019_krp_000-bkkpn6}
   - {type: variant, offset: 390, length: 1, content: 㳟, CK-KZ: 恭}
   - {type: variant, offset: 390, length: 1, content: 㳟, CK-KZ-jye: 恭}
@@ -905,6 +908,7 @@ markers:
   - {type: line-break, offset: 710, content: '', id: KR5h0019_HFL_000-005b10}
   - {type: indent, offset: 710, content: 　　, id: KR5h0019_krp_000-bkkind2}
   - {type: punctuation, offset: 710, content: (, id: KR5h0019_krp_000-bkkpn1}
+  - {type: voice, offset: 710, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 719, content: ), id: KR5h0019_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 719, content: '
 
@@ -943,6 +947,7 @@ markers:
   - {type: variant, offset: 756, length: 1, content: 䧏, YP-C: 降}
   - {type: substitution, offset: 756, original: 䧏, replacement: 降, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19856}}
   - {type: punctuation, offset: 759, content: (, id: KR5h0019_krp_000-bkkpn5}
+  - {type: voice, offset: 759, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 760, content: ), id: KR5h0019_krp_000-bkkpn6}
   - {type: 'kr:newline', offset: 770, content: '
 
@@ -957,6 +962,7 @@ markers:
       ', id: KR5h0019_krp_000-bkkkrnewl80}
   - {type: line-break, offset: 787, content: '', id: KR5h0019_HFL_000-006a05}
   - {type: punctuation, offset: 793, content: (, id: KR5h0019_krp_000-bkkpn7}
+  - {type: voice, offset: 793, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 794, content: ), id: KR5h0019_krp_000-bkkpn8}
   - {type: variant, offset: 802, length: 1, content: 𢦙, CK-KZ: 或}
   - {type: variant, offset: 802, length: 1, content: 𢦙, CK-KZ-jye: 或}
@@ -1106,6 +1112,7 @@ markers:
       ', id: KR5h0019_krp_000-bkkkrnewl94}
   - {type: line-break, offset: 986, content: '', id: KR5h0019_HFL_000-006b08}
   - {type: punctuation, offset: 986, content: (, id: KR5h0019_krp_000-bkkpn9}
+  - {type: voice, offset: 986, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 987, content: ), id: KR5h0019_krp_000-bkkpn10}
   - {type: variant, offset: 989, length: 1, content: 来, CK-KZ: 來}
   - {type: variant, offset: 989, length: 1, content: 来, CK-KZ-jye: 來}
@@ -1221,4 +1228,4 @@ markers:
 
       ', id: KR5h0019_krp_000-bkkkrnewl119}
   back: []
-hash: sha256:c42ec089d122b1f1cf00095d2fa45fe77a8f95a87f2a23beef06c996d3b4b6e7
+hash: sha256:e06a535dc42c637981fea1f3af4aa4d3ca2bfb4cd2406eb30a22e23a487453f3
